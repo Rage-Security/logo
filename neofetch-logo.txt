@@ -24,3 +24,33 @@
         ..',,:loooool:'.        .,;:cccc:,','...        
             ........                 ......             
                                              
+
+or with color
+            set_colors   7 4 
+            read -rd '' ascii_data <<'EOF'
+                                                          
+                     .                            
+${c2}                  ...         .                   
+${c2}                :c             ,,                 
+${c2}              .d;               'd.               
+${c2}             .kx                 ;x;              
+${c2}             dk:                 .dd'             
+${c2}            ,kkl      ${c1}.....${c2}       odc             
+${c2}            :kkk  ${c1}.,cxxxxxxxxl;.${c2} 'ddd             
+${c2}            :kkkl ${c1},xkxdllloxxxl.${c2} oddl             
+${c2}             xkkkd...       .' ,dddd,             
+${c2}         .':lxkkkkxl,.      .;ddddddc,.           
+${c2}       .lkkkkkkkkxxxxxdl  oxdddddddddddoc.        
+${c2}     .dkkkkxxkkkxxxxxxx:  cddddddddollooool,      
+${c2}    .xkc,.  ','.;dxxxx;    cdddd;.....   ,lo:     
+${c2}   .xl.     ${c1}lxx;${c2}  .lc.      .;,  ${c1}.doo;${c2}     .:;    
+${c2}   x,       ${c1}.xxo${c2}     ;ldlldc'    ${c1};ooo.${c2}       :'   
+${c2}  .c         ${c1}dxxl${c2}    ldddddd;   ${c1};oooc ${c2}        ;   
+${c2}  ..          ${c1}cxxd;.${c2} ,dddddd. ${c1}'looo:  ${c2}        .   
+${c2}   .           ${c1}'dxxd${c2} :dddddd.${c1}.oooo,   ${c2}            
+${c2}                 ${c1}.:,${c2} odddddd; ${c1}cc'     ${c2}            
+${c2}                    :dddddddo;                    
+${c2}                  .odddo;:oooo:                   
+${c2}         .    .,:ldddl,    ,lool:,.     .         
+${c2}          .,;::::::'         ..,;::;;,..          
+                                             
